@@ -9,6 +9,9 @@ state={
 
 	history={
 		owner = TUR
+		victory_points = { #Varna
+			9783 5
+		}
 		victory_points = { #Burgas
 			9902 3
 		}
@@ -18,9 +21,15 @@ state={
 		victory_points = { #Yambol
 			9888 1
 		}
+		victory_points = { #Shumen
+			9769 1
+		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
+			9783 = {
+				naval_base = 3
+			}
 			9902 = {
 				naval_base = 1
 			}
@@ -29,7 +38,7 @@ state={
 	}
 
 	provinces={
-		6967 9888 9902
+		649 6967 9769 9783 9888 9902 9919
 	}
 
 	local_supplies=4.0 

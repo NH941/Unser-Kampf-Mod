@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = NAP
+		owner = ITA
 		victory_points = {
 			819 20 
 		}
@@ -23,11 +23,8 @@ state={
 			819 = {
 				naval_base = 6
 			}
-			6831 = {
-				naval_base = 1
-			}
 		}
-		add_core_of = NAP
+		add_core_of = ITA
 		1939.1.1 = {
 			buildings = {
 				arms_factory = 2
@@ -37,7 +34,7 @@ state={
 	}
 
 	provinces={
-		819 851 883 955 3958 3968 6843 6939 6972 6980 9826 11803 963 6831 3923 3966
+		819 851 883 955 3958 3968 6843 6939 6972 6980 9826 11803 
 	}
 
 	local_supplies=13.0 

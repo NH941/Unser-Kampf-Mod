@@ -7,7 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = EGY
+		owner = ENG
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -15,12 +15,15 @@ state={
 		victory_points = {
 			7151 1 
 		}
+		victory_points = {
+			11976 1 
+		}
 
-		add_core_of = EGY
+		add_core_of = JOR
 	}
 
 	provinces={
-		4017 4115 4574 4591 7001 7151 7170 10089 
+		1544 4017 4115 4440 4562 4574 4591 4603 7001 7151 7170 10089 11976 
 	}
 
 	local_supplies=0.0 
